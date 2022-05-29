@@ -1,0 +1,1 @@
+console.log("Halo, ini repo kedua dibuat oleh DanishAW");
